@@ -6,6 +6,14 @@ A Windows lighting app for the **tested WOBKEY Crush 80 Pro**, by [mi0ir](https:
 
 ![Crush Control's 2D lighting editor](assets/app-preview.png)
 
+## On the keyboard
+
+![Silver Crush 80 Pro running the Gaming preset with only WASD lit green among the main keys](assets/keyboard-wasd.jpg)
+
+Gaming preset on the tested Crush 80 Pro with supported custom firmware. WASD is green; the other main keys are off. The heartbeat and status lights remain separate.
+
+[WASD close-up](assets/keyboard-wasd-detail.jpg) · [Sky blue keys and rear-foot lighting](assets/keyboard-sky-rear.jpg)
+
 ## Features
 
 - Select keys with a click, Shift-click or a drag; set a color or leave them off.
