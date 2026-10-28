@@ -2,7 +2,7 @@
 
 A Windows lighting app for the **tested WOBKEY Crush 80 Pro**, by [mi0ir](https://mi0ir.com).
 
-[Visit the app page](https://mizu121.github.io/crush-control-releases/) · [Download and release notes](https://github.com/mizu121/crush-control-releases/releases) · [Star on GitHub](https://github.com/mizu121/crush-control-releases) · [Report an issue](https://github.com/mizu121/crush-control-releases/issues)
+[Visit the app page](https://mizu121.github.io/crush-control-releases/) · [Download and release notes](https://github.com/mizu121/crush-control-releases/releases) · [Star on GitHub](https://github.com/mizu121/crush-control-releases) · [Support development](https://buymeacoffee.com/mi0ir) · [Report an issue](https://github.com/mizu121/crush-control-releases/issues)
 
 ![Crush Control's 2D lighting editor](assets/app-preview.png)
 
@@ -44,6 +44,8 @@ This is experimental evaluation software. See the terms and third-party notices 
 ## Support the project
 
 If Crush Control is useful to you, [give this repository a star](https://github.com/mizu121/crush-control-releases). Stars help other keyboard owners find the project and show support for its development.
+
+You can also [leave mi0ir a tip on Buy Me a Coffee](https://buymeacoffee.com/mi0ir) to support development and testing. Tips are optional and do not unlock extra features.
 
 You can also [report a bug](https://github.com/mizu121/crush-control-releases/issues) or share the app page. Please include your keyboard revision and app version in bug reports; never post personal information or firmware dumps.
 
